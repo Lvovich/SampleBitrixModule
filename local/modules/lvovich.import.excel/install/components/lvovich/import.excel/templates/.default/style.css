@@ -1,0 +1,11 @@
+.lie_error-message,
+.lie_success-message {
+    font-weight: bold;
+    display: inline-block;
+}
+.lie_error-message {
+    color: red;
+}
+.lie_success-message {
+    color: green;
+}
